@@ -1,7 +1,9 @@
 # FEND Project 7 (Maps)
 
 ## Overview
-This is and end-to-end walkthrough of building Project 7 (Maps) in Udacity's Front End Nano-Degree program. This project uses React along with some APIs and other external dependencies. Namely:
+This is an alternative version of the final code from the FEND Project 7 walkthrough available at fend-maps-walkthrough. This was created to illustrate how the project can be done using the <Marker> component from google-maps-react and still fulfill all the rubric requirements. Other elements have been simplified as well so it does only what is necessary to pass.
+
+This code utilizes the following components and services beyond the standard React library:
 
 * Google Maps
 * FourSquare
